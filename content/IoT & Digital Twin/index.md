@@ -1,4 +1,0 @@
----
-title: IoT & Digital Twin
----
-

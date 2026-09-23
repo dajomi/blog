@@ -1,4 +1,0 @@
----
-title: Indoor & Spatial AI
----
-
