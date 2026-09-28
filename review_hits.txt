@@ -1,0 +1,16 @@
+2025 LLM Semantic Mapping Ontology.md:9: Smart Building에는 sensor reading, occupancy, environment, equipment metadata가 있지만 서로 다른 naming/schema를 가진다.
+2025 LLM Semantic Mapping Ontology.md:11: Ontology/KG를 쓰면 해결할 수 있지만 새로운 문제가 생긴다.
+2025 LLM Semantic Mapping Ontology.md:53: 여기서는 조심해야 한다. 확보한 공식 IAARC 페이지와 전문 검색 결과로는 framework 목적과 실험 구조는 확인했지만 일관된 정량 성능표 전체를 검증하지 못했다.
+2025 BIM geometry semantics GIS integration.md:9: BIM을 GIS에 넣을 때 문제가 두 개 생긴다. IFC geometry는 도시 규모 GIS에 너무 무겁고, 반대로 단순화 과정에서 IFC가 가진 풍부한 semantic information은 손실되기 쉽다.
+2026 BIM enhanced Construction Pollution Management.md:9: 반대로 모든 BIM attribute를 DT로 가져오면 데이터가 너무 무거워진다.
+2026 BIM IoT 실내환경 DT.md:64: 세부 funding/COI는 현재 확인 가능한 공식 페이지에 나오지 않아 판단하지 않는다.
+2026 BIM IoT 실내환경 DT.md:82: 이건 네 IoT 프로젝트를 building DT로 확장하기 가장 쉬운 유형이다.
+2026 Blockchain Assisted BIM IoT Digital Twin.md:48: ### 7–10. 여기서는 비판적으로 읽어야 한다
+2026 FMU Ontology Urban Digital Twin.md:17: 그리고 FMU(Formulating–Modelling–Utilizing) Ontology를 네 층으로 만든다.
+2026 Identity Semantic Interaction Bridge Digital Twin.md:59: 실무 편향 위험은 중간. 실제 교량이라는 강점이 있지만 bridge details가 confidentiality 때문에 공개되지 않아 reproducibility가 제한된다.
+2026 Identity Semantic Interaction Bridge Digital Twin.md:67: 이 논문은 네 SFaaS 경험과 특히 잘 맞는다.
+2026 교량 네트워크 KG 디지털트윈.md:209: Fig. 9 Architecture → §3.3 ETL → §4 Case Study → Fig. 24 → §5 Conclusions 순서로 읽어.
+2026 STRIDE Semantic reasoning and integration for predictive maintenance.md:61: 가장 큰 약점은 실제 대규모 건물 운영이 아니라 simulated HVAC validation이라는 점이다. 30,082 node가 KG 규모 실험에는 의미가 있지만 도시/대형 플랜트 수준 scalability를 입증하진 않는다. 또한 82.5% 자동화율이 실제 maintenance cost나 failure detection 성능 향상으로 곧바로 이어진다고 볼 수 없다.
+2026 STRIDE Semantic reasoning and integration for predictive maintenance.md:75: 후속 연구로는 실제 HVAC/공장 장기 validation, graph 규모 확장, KG+LLM reasoning, uncertainty-aware reasoning이 특히 가치 있다. 읽을 시간이 없다면 Architecture → ontology/KG mapping → validation → Discussion 순서로 읽어.
+2026 논문 브리핑 1회차 종합.md:78: “데이터를 연결하는 architecture는 좋아지고 있는데, 정말 미래를 예측하고 실제 운영 성과를 개선했는가?”
+2026 논문 브리핑 2회차 종합.md:79: 둘째, LLM + Ontology의 reliability. LLM이 mapping 비용을 줄일 수 있지만 hallucination을 어떻게 검증할 것인가가 남는다.
