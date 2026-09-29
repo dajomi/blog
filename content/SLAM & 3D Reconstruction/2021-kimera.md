@@ -28,7 +28,6 @@ paper_type: journal
 doi: "10.1177/02783649211056674"
 url: "https://arxiv.org/abs/2101.06894"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위

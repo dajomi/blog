@@ -25,7 +25,6 @@ paper_type: conference
 doi: ""
 url: "https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_SceneGraphFusion_Incremental_3D_Scene_Graph_Prediction_From_RGB-D_Sequences_CVPR_2021_paper.pdf"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위

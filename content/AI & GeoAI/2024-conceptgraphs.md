@@ -37,7 +37,6 @@ paper_type: conference
 doi: "10.1109/ICRA57147.2024.10610243"
 url: "https://arxiv.org/abs/2309.16650"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위

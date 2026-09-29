@@ -25,7 +25,6 @@ paper_type: conference
 doi: "10.1109/CVPR.2013.178"
 url: "https://openaccess.thecvf.com/content_cvpr_2013/html/Salas-Moreno_SLAM_Simultaneous_Localisation_2013_CVPR_paper.html"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위

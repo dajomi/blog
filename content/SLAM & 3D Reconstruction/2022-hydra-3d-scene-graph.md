@@ -24,7 +24,6 @@ paper_type: conference
 doi: "10.15607/RSS.2022.XVIII.050"
 url: "https://arxiv.org/abs/2201.13360"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위

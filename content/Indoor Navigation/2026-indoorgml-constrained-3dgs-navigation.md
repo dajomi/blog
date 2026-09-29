@@ -22,7 +22,6 @@ paper_type: thesis
 doi: ""
 url: ""
 verification: unverified
-draft: true
 ---
 
 > [!warning] 검증 범위

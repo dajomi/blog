@@ -24,7 +24,6 @@ paper_type: conference
 doi: "10.1109/ICRA.2011.5980074"
 url: "https://ieeexplore.ieee.org/document/5980074/"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위

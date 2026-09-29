@@ -28,7 +28,6 @@ paper_type: journal
 doi: "10.1016/j.jag.2024.103685"
 url: "https://doi.org/10.1016/j.jag.2024.103685"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위

@@ -27,7 +27,6 @@ paper_type: journal
 doi: "10.1016/j.isprsjprs.2021.01.013"
 url: "https://doi.org/10.1016/j.isprsjprs.2021.01.013"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위

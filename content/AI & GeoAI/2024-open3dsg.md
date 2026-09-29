@@ -26,7 +26,6 @@ paper_type: conference
 doi: ""
 url: "https://openaccess.thecvf.com/content/CVPR2024/html/Koch_Open3DSG_Open-Vocabulary_3D_Scene_Graphs_from_Point_Clouds_with_Queryable_CVPR_2024_paper.html"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위

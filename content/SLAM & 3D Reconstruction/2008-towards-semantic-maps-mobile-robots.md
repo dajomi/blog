@@ -23,7 +23,6 @@ paper_type: journal
 doi: "10.1016/j.robot.2008.08.001"
 url: "https://doi.org/10.1016/j.robot.2008.08.001"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위

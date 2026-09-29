@@ -26,7 +26,6 @@ paper_type: conference
 doi: "10.15607/RSS.2020.XVI.079"
 url: "https://arxiv.org/abs/2002.06289"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위

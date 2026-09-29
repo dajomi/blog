@@ -26,7 +26,6 @@ paper_type: conference
 doi: "10.5194/isprs-annals-IV-2-W5-271-2019"
 url: "https://isprs-annals.copernicus.org/articles/IV-2-W5/271/2019/"
 verification: full-text
-draft: true
 ---
 
 > [!info] 검증 범위
